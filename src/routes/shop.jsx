@@ -32,7 +32,7 @@ export default function Shop() {
   
   if (loading) return (
     <div className="spinner-container">
-      <div className="spinner"></div>
+      <div data-testid="spinner" className="spinner"></div>
     </div>
   );
   if (error) return <p>A network error was occured: {error}</p>;
