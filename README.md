@@ -4,4 +4,4 @@
 [Live preview](https://shopping-cart-deploy-one.vercel.app/cart)
 
 
-React, React Router, Context API, JavaScript, Vitest, HTML, CSS, Fake Store API, Rest API
+React, React Router, Context API, JavaScript, Vitest, HTML, CSS, Fake Store API, Fetch API
